@@ -1,3 +1,5 @@
+### {{ CodeFringe }}
+
 Codefringe is a bootstrapped, self sustained tech consulting organisation started by tech and product enthusiasts. To collaborate with us or to hire us get in touch with us.
 
 
