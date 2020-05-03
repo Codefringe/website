@@ -1,9 +1,8 @@
 ### {{Codefringe}}
 
-You can use the [editor on GitHub](https://github.com/Codefringe/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Codefringe is a bootstrapped, self sustained tech consulting organisation started by tech and product enthusiasts. To collaborate with us or to hire us get in touch with us at below email ids.
 
 
+### Contact us
 
-### Support or Contact
-
-Email us @ [codefringetech@gmail.com](codefringetech@gmail.com), [hello@codefringe.com](hello@codefringe.com)
+Email us @ [codefringetech@gmail.com](mailto:codefringetech@gmail.com), [hello@codefringe.com](mailto:hello@codefringe.com)
